@@ -1,2 +1,2 @@
 # meetup-presentations_ushuaia
-por acá el material de los encuesntros de R-Ladies Ushuaia!
+por acá el material de los encuentros de R-Ladies Ushuaia!
