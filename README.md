@@ -2,6 +2,8 @@
 ¡por acá el material de los encuentros de R-Ladies Ushuaia!
 
 2018: Arrancamos
+- Intro RLadies y bienvenides
+- Ejercicio intro a tidyverse y ggplot2
 
 2020: Merienda virtual con R 25 de abril Meetup conjunto con RLadies Córdoba - tiempos de pandemia de COVID19
 - Intro
